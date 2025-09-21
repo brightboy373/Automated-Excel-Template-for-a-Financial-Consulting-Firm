@@ -101,6 +101,9 @@ It allows users to:
 
 ## Download Resources
 <a href= "https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Raw%20American%20Bank%20Statement.xlsx">Download Sample Dataset</a>
+<a href= "https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Manual%20for%20Excel%20Template.pdf">Download Template Manual</a>
+<a href= "https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Macro%20documentations.pdf">Download Macro Documentations</a>
+<a href= "[https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Macro%20documentations.pdf](https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Virtual%20Admin%20Project.xlsm)">Download Excel Automated Template</a>
 
 
 
