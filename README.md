@@ -47,6 +47,7 @@ It allows users to:
 
 ## Project Structure
 
+```bash
 ├── Demo_Datasets
 │   ├── Raw_Bank_Data.csv
 │   └── Master_Sheet.csv
