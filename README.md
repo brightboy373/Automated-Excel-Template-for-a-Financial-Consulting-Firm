@@ -57,6 +57,7 @@ It allows users to:
 │   └── VBA_Code.pdf
 ├── README.md
 └── User_Guide.pdf
+```
 ---
 
 ## Getting Started
