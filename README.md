@@ -48,14 +48,15 @@ It allows users to:
 ## Project Structure
 
 ├── Demo_Datasets
-│ ├── Raw_Bank_Data.csv
-│ └── Master_Sheet.csv
+│   ├── Raw_Bank_Data.csv
+│   └── Master_Sheet.csv
 ├── Snapshots
-│ └── Master_Sheet_Snapshot.png <-- 📸 Screenshot of the Master Sheet
+│   └── Master_Sheet_Snapshot.png   <-- 📸 Screenshot of the Master Sheet
 ├── Macros
-│ └── VBA_Code.pdf
+│   └── VBA_Code.pdf
 ├── README.md
 └── User_Guide.pdf
+
 
 ---
 
