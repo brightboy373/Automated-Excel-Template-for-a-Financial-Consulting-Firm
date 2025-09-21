@@ -126,7 +126,7 @@ Inspired by real-world financial reconciliation needs and designed for speed, ac
 
 For questions or troubleshooting, contact: Bright via
 
-<a href= "enwerebright@gmail.com">gmail</a>
+<a href= "enwerebright@gmail.com">enwerebright@gmail.com</a>
  
 <a href= "https://github.com/brightboy373">github</a>
 
