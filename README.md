@@ -97,4 +97,11 @@ It allows users to:
 - Type any keyword in the **Search Bar (E3)** and press the **Search Button**.  
 - All matching rows in the Master Sheet will be highlighted in yellow for quick review.
 
+---
+
+## Download Resources
+<a href= "https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Raw%20American%20Bank%20Statement.xlsx">Download Sample Dataset</a>
+
+
+
 
