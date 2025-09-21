@@ -65,14 +65,9 @@ It allows users to:
 
 ### Prerequisites
 - Microsoft Excel (2016 or later recommended).
-- Basic knowledge of enabling Macros (VBA).
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/automated-excel-fee-benchmarking.git
-2. Open the Excel file.
-3. Enable Macros when prompted.
+- Macros must be enabled
+- Developer tab activated in Excel
+- Power Query installed and configured
    
 ---
 
@@ -114,6 +109,30 @@ It allows users to:
 
 ## Snapshots
 <img width="944" height="488" alt="Virtual Admin Excel Project" src="https://github.com/user-attachments/assets/b5b7de81-340f-4a11-b68c-fe1839e27ab2" />
+
+---
+
+## License
+
+---
+
+## Acknowledgements
+Built and designed by Bright Ihechukwu Enwere in Lagos, Nigeria 🇳🇬
+Inspired by real-world financial reconciliation needs and designed for speed, accuracy, and simplicity.
+
+---
+
+## Support
+
+For questions or troubleshooting, contact: Bright via
+
+<a href= "enwerebright@gmail.com">gmail</a>
+ 
+<a href= "https://github.com/brightboy373">github</a>
+
+<a href= "https://www.linkedin.com/in/brightenwere">linkedin</a>
+
+
 
 
 
