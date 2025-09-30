@@ -1,4 +1,4 @@
-# Automated Excel Template
+<img width="944" height="488" alt="Virtual Admin Excel Project" src="https://github.com/user-attachments/assets/e7270afd-3f4e-4941-8b67-3fdc8987dca9" /># Automated Excel Template
 A smart Excel template specially built for financial teams to conduct consistent benchmarking and help their clients save costs.
 It automates raw bank data transformation, applies data validation with dropdowns for smooth data entry, and allows instant highlighting of search results.
 Designed for accuracy, speed, and ease of use, it eliminates repetitive manual work and keeps your analysis reliable every time clean data is imported into the Master Sheet.
@@ -108,7 +108,8 @@ It allows users to:
 ---
 
 ## Snapshots
-<img width="944" height="488" alt="Virtual Admin Excel Project" src="https://github.com/user-attachments/assets/b5b7de81-340f-4a11-b68c-fe1839e27ab2" />
+<img width="944" height="488" alt="Virtual Admin Excel Project" src="https://github.com/user-attachments/assets/8a8eb394-d0c9-4b2e-b7b8-4e99ce9c100c" />
+
 
 ---
 
