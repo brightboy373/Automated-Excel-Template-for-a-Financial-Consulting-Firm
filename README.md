@@ -6,23 +6,24 @@ Designed for accuracy, speed, and ease of use, it eliminates repetitive manual w
 ---
 
 ## Table of Contents
-1. [About the Project](#about-the-project)  
-2. [Features](#features)  
-3. [Project Structure](#project-structure)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-5. [How to Use](#how-to-use) 
-   - [ Prepare & Paste Raw Data](#prepare--paste-raw-data)
-   - [Clean Data](#clean-data)  
-   - [Import Clean Data](#import-clean-data)
-   - [Data Validation](#data-validation)    
-   - [Search & Highlight](#search--highlight)  
-6. [Macros Reference](#macros-reference)  
-7. [Demo Dataset](#demo-dataset)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
-10. [Acknowledgments](#acknowledgments)
+
+- [About the Project](#about-the-project)  
+- [Features](#features)  
+- [Project Structure](#project-structure)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+- [How to Use](#how-to-use)  
+  - [1️⃣ Prepare & Paste Raw Data](#prepare--paste-raw-data)  
+  - [2️⃣ Clean Data](#clean-data)  
+  - [3️⃣ Import Clean Data](#import-clean-data)  
+  - [4️⃣ Data Validation](#data-validation)  
+  - [5️⃣ Search & Highlight](#search--highlight)  
+- [⚡ Challenges & Fixes](#challenges--fixes)  
+- [Download Resources](#download-resources)  
+- [Snapshots](#snapshots)  
+- [License](#license)  
+- [Acknowledgements](#acknowledgements)  
+- [Support](#support)
 
 ---
 
