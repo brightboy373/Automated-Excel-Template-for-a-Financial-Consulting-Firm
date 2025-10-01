@@ -95,6 +95,19 @@ It allows users to:
 
 ---
 
+  ## ⚡ Challenges & Fixes
+
+| **Challenge** | **Fix Implemented** |
+|---------------|----------------------|
+| New data imported into Master Sheet was replacing old rows | Inserted blank rows first so existing data (incl. formulas in J–N) shifted down before pasting new data |
+| Dropdown lists (Data Validation) disappeared after import | Automated re-application of data validation with a trigger button |
+| Power Query refresh macro failed with `Selection.ListObject.QueryTable.Refresh` | Fixed by explicitly referencing sheet (`Clean_Data_Sheet`) and table name (`Table3_2`) |
+| `If Not IsError(benchPrice)` line flagged error in VBA | Corrected loop logic and added error handling for missing benchmark values |
+| Search button was too slow when filtering | Switched from filtering to conditional highlighting for instant feedback |
+| Needed search box with placeholder text (“Search here”) | Used VBA to show input message that disappears once typing begins |
+
+---
+
 ## Download Resources
 
 <a href= "https://github.com/brightboy373/Automated-Excel-Template-for-a-Financial-Consulting-Firm/blob/main/Raw%20American%20Bank%20Statement.xlsx">Download Sample Dataset</a>
