@@ -18,7 +18,7 @@ Designed for accuracy, speed, and ease of use, it eliminates repetitive manual w
   - [3️⃣ Import Clean Data](#import-clean-data)  
   - [4️⃣ Data Validation](#data-validation)  
   - [5️⃣ Search & Highlight](#search--highlight)  
-- [⚡ Challenges & Fixes](#challenges--fixes)  
+- [Challenges & Fixes](#challenges--fixes)  
 - [Download Resources](#download-resources)  
 - [Snapshots](#snapshots)  
 - [License](#license)  
@@ -96,7 +96,7 @@ It allows users to:
 
 ---
 
-  ## ⚡ Challenges & Fixes
+  ## Challenges & Fixes
 
 | **Challenge** | **Fix Implemented** |
 |---------------|----------------------|
